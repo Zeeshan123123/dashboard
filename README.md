@@ -16,9 +16,9 @@ Simple dashboard is created using Laravel & Vue.js. It helps the developer to qu
 - [Table with pagination] (https://github.com/vuejs/awesome-vue#table)
 - [Vue progress bar] (https://github.com/hilongjw/vue-progressbar)
 - [Sweetalert2] (https://sweetalert2.github.io/)
+- [Admin Lte 3] (https://adminlte.io/themes/v3/index.html)
 - Image Intervention
 - Fontawesome package
-- Admin Lte 3
 - Laravel Passport
 
 ## Installation
