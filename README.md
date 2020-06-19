@@ -9,7 +9,7 @@
 
 ## About Project
 
-This dashboard is built using Laravel & Vue.js.It helps the developer to quickly setup their dashboard with the basic and common functionality. Following packages are used: 
+Simple dashboard is created using Laravel & Vue.js. It helps the developer to quickly setup their dashboard with the basic and common functionality. Following packages are used: 
 
 - [v-form] (https://github.com/cretueusebiu/vform)
 - [Momentjs library] (https://momentjs.com/):- we can access moment in our application while I used this to format the date. 
@@ -18,6 +18,7 @@ This dashboard is built using Laravel & Vue.js.It helps the developer to quickly
 - [Sweetalert2] (https://sweetalert2.github.io/)
 - Image Intervention
 - Fontawesome package
+- Admin Lte 3
 - Laravel Passport
 
 ## Installation
