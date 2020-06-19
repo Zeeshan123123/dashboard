@@ -12,7 +12,7 @@
 This dashboard is built using Laravel & Vue.js.It helps the developer to quickly setup their dashboard with the basic and common functionality. Following packages are used: 
 
 - [v-form] (https://github.com/cretueusebiu/vform)
-- [Momentjs library] (https://momentjs.com/):- we can access moment in our application but I used this to format the date. 
+- [Momentjs library] (https://momentjs.com/):- we can access moment in our application while I used this to format the date. 
 - [Table with pagination] (https://github.com/vuejs/awesome-vue#table)
 - [Vue progress bar] (https://github.com/hilongjw/vue-progressbar)
 - [Sweetalert2] (https://sweetalert2.github.io/)
