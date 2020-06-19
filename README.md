@@ -20,6 +20,23 @@ This dashboard is built using Laravel & Vue.js.It helps the developer to quickly
 - Fontawesome package
 - Laravel Passport
 
+## Installation
+
+You can install it just like any other project. Don't worry! If you don't know than follow following steps:
+1. First clone the repository using: git clone https://github.com/Zeeshan123123/dashboard.git
+2. Go to the project directory and open the cmd.
+3. Run composer install
+4. Run npm install
+5. Create database.
+6. Save .env.example as .env and set your database information in .env
+7. Run php artisan key:generate for creating the application key.
+8. php artisan passport:install
+9. Run php artisan migrate
+10. Its all Done:) Now you can customize and build awesome applications.
+
+- Admin Login credentials:- email: info@example.com  ,  password: 11223344
+
+
 ## Contributing
 
 Thank you for considering contributing to the project.
