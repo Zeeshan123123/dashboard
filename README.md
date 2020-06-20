@@ -37,6 +37,8 @@ You can install it just like any other project. Don't worry! If you don't know t
 
 - Admin Login credentials:- email: info@example.com  ,  password: 11223344
 
+## Demo
+https://www.youtube.com/watch?v=YaU4hbQTuv0
 
 ## Contributing
 
